@@ -15,7 +15,6 @@ void setup() {
   pinMode(sensor, INPUT_PULLUP);
   pinMode(led, OUTPUT);
   digitalWrite(led, LOW);
-
 }
 
 //é medido o angulo de inclinação e mostrado no monitor serial
