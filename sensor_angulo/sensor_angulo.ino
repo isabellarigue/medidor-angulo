@@ -23,7 +23,7 @@ void loop() {
   angulo = map(analogRead(sensor),0, 1023, 0, 333); //o sensor mede angulos de 0 a 333 graus
   Serial.println(angulo); 
   delay(1000);
-  //quando o angulo é menor que 180 graus o led é acesso
+  //quando o angulo é menor que 180 graus o led é aceso
   if(angulo < 180) 
     ledOn();
   else 
