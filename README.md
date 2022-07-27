@@ -5,7 +5,8 @@ Construção de um medidor de ângulo do vento a partir de sensores de Arduino. 
 ## Materiais necessários:
 - Arduino Uno;
 - Sensor CJMCU-103 ou giroscópio;
-- ...
+- Jumpers;
+- Estrutura (pode ser feita com impressão 3D, conforme CAD);
+- Solda.
 
-## OBS:
-Projeto em andamento 
+## Conclusão
