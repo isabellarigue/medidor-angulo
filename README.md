@@ -9,4 +9,4 @@ Construção de um medidor de ângulo do vento a partir de sensores de Arduino. 
 - Estrutura (pode ser feita com impressão 3D, conforme CAD);
 - Solda.
 
-## Conclusão
+A princípio utilizando o sensor CJMCU-103 e seu [sketch](sketch_cjmcu103/sketch_cjmcu103.ino) conectado à [estrutura](CADs/medidor.asm.1) impressa 3D e ao Arduino, por meio de cabos soldados.
